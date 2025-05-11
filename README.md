@@ -14,4 +14,4 @@ Team Members
 NAVIN KUMAR (Leader)
 Suzal
 Manoj
-Each member has contributed to the creation and development of the story in different stages, following the collaborative workflow of Git and GitHub
+Each member has contributed to the creation and development of the story in different stages, following the collaborative workflow of Git and GitHub.
