@@ -1,6 +1,7 @@
-# Climb the Mountain
+# Summit of Silence
 
-The air grows thin and the wind howls louder with every step...
+You keep climbing until you reach the summit. The sky clears and you see the world stretch out endlessly below.
 
-- [Look for shelter](cave.md)
-- [Keep climbing](summit.md)
+A peaceful calm settles over you. You've found what you were searching for.
+
+**The End.**
