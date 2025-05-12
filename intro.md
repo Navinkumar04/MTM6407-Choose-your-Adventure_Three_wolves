@@ -7,3 +7,6 @@ You glance at your old, crumpled map—three paths lie ahead.
 What do you do?
 
 <!-- Team members will add their own choices here in their branches -->
+- [Enter the forest](forest.md)
+- [Climb the mountain](mountain.md)
+- [Walk into the desert](desert.md)
